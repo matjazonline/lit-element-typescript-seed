@@ -1,0 +1,1 @@
+export {LitWebComponent} from './lit-web.component'
